@@ -4,7 +4,7 @@ Name="Ruslan"
 print(Name)
 Age=35
 print(Age)
-Age=Age+1
+Age=Age+2
 print(Age)
 is_student=True
 print(is_student)
